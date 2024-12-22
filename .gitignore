@@ -1,0 +1,28 @@
+# Ignore the Library folder
+[Ll]ibrary/
+
+# Ignore the Temp folder
+[Tt]emp/
+
+# Ignore build output folders
+[Bb]uild/
+[Bb]uilds/
+
+# Ignore the obj folder
+[Oo]bj/
+
+# Ignore user-specific settings
+UserSettings/
+
+# Ignore the .vs folder (Visual Studio)
+.vs/
+
+# Ignore DS_Store (macOS specific)
+.DS_Store
+
+# Ignore the generated Android Studio project (if working with Android)
+.gradle/
+.idea/
+
+# Ignore Unity-generated plugin settings (if applicable)
+[Ll]ibrary/ScriptAssemblies/
